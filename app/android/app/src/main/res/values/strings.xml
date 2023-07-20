@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SuntenGlobal</string>
+    <string name="title_activity_main">SuntenGlobal</string>
+    <string name="package_name">com.suntenglobal.app</string>
+    <string name="custom_url_scheme">com.suntenglobal.app</string>
+</resources>
